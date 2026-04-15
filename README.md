@@ -51,6 +51,14 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 | Lesson 10 | 12月21日 | Exploration Project Report                                   | Exploration Project Report                                   | Exploration Project                                          |
 |           |          | 各探索项目总结报告                                           |                                                              |                                                              |
 
+## Slides
+
+【腾讯文档】陈巍：基于RISC-V的开源GPU架构与设计探索（1-5）
+https://docs.qq.com/slide/DWFZLck9xTURnbUVJ
+
+【腾讯文档】陈巍：基于RISC-V的开源GPU架构与设计探索（6-9）
+https://docs.qq.com/slide/DWExTbmtwdWhFRVJo
+
 ## Exploring Projects
 
 OpenTensorCore
@@ -75,6 +83,6 @@ OpenLLMRoad
 
 ![image-20251018172931236](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018172931236.png)
 
-<img width="933" height="62" alt="image" src="https://github.com/user-attachments/assets/39c5d16e-9783-49a6-b9ed-25f4c363db97" />
 
 
+![image-20260415115424770](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20260415115424770.png)
