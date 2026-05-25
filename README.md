@@ -54,10 +54,18 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 ## Slides
 
 【腾讯文档】陈巍：基于RISC-V的开源GPU架构与设计探索（1-5）
+
 https://docs.qq.com/slide/DWFZLck9xTURnbUVJ
 
 【腾讯文档】陈巍：基于RISC-V的开源GPU架构与设计探索（6-9）
+
 https://docs.qq.com/slide/DWExTbmtwdWhFRVJo
+
+
+
+pdf Version of 1-4
+
+https://github.com/chenweiphd/OpenRVGPUCourse/tree/main/LectureNotes/2025
 
 ## Exploring Projects
 
